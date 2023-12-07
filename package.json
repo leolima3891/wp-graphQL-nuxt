@@ -1,0 +1,19 @@
+{
+  "name": "wp-graphql-nuxt",
+  "version": "1.0.0",
+  "description": "A npm package to integrate WordPress GraphQL into Nuxt.js applications.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nuxtjs",
+    "graphql",
+    "wordpress"
+  ],
+  "author": "Leonardo Lima",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
